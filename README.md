@@ -1,16 +1,30 @@
-## Hi there 👋
+# Ayaulym Amralina (Aya)
 
-<!--
-**aya-amralina/aya-amralina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Computer Engineering student at TU Berlin | Building projects in AI, web development & social impact
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Core Stack
+**Languages:** Python, Java, JavaScript, HTML, CSS, SQL  
+**Frameworks & Libraries:** Django, Spring Boot  
+**Databases:** PostgreSQL, MySQL  
+**Tools:** Git/GitHub, Docker, VS Code, IntelliJ IDEA
+
+## 📚 Additional Experience
+**Languages:** C, C++, TypeScript, SCSS  
+**Frameworks & Libraries:** Flask, React.js, Node.js 
+**Databases:** SQLite  
+**Cloud:** Google Cloud Platform (GCP)  
+**Tools:** Figma, GitLab
+
+---
+
+## 📌 Featured Projects
+
+will be linked soon
+
+---
+
+## 🌍 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayaulym-amralina-0a9533330)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:ayaulymamralina@gmail.com)
