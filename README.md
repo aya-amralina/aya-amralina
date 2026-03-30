@@ -5,13 +5,13 @@
 ---
 
 ## Core Stack
-**Languages:** Python, Java, JavaScript, HTML, CSS, SQL  
+**Languages:** Python, TypeScript, HTML, SCSS, SQL  
 **Frameworks & Libraries:** Django, Spring Boot  
 **Databases:** PostgreSQL, MySQL  
 **Tools:** Git/GitHub, Docker, VS Code, IntelliJ IDEA
 
 ## Additional Experience
-**Languages:** C, C++, TypeScript, SCSS  
+**Languages:** C++, JavaScript  
 **Frameworks & Libraries:** Flask, React.js, Node.js 
 **Databases:** SQLite  
 **Cloud:** Google Cloud Platform (GCP)  
